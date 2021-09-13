@@ -36,7 +36,7 @@ Customers demographic info
 * Partner — Whether the customer has a partner or not (Yes, No)
 * Dependents — Whether the customer has dependents or not (Yes, No)
 
-# Methodology
+# Methodology Used
 
 Use of multiple Machine Supervised learning alogirthms along with Gridsearch cross validation to get best hyper parameters to predict the Churn of the customers:
 1. Logistic Regression
